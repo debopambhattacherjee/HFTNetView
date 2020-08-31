@@ -1,0 +1,42 @@
+!!python/object:networkx.classes.digraph.DiGraph
+_adj: &id003
+  0:
+    1: &id001
+      frequency_list:
+      - '''006404.79000000'''
+      length: 52.610522854926685
+    2: &id002
+      frequency_list:
+      - '''006063.80000000'''
+      length: 22.629266846044597
+  1: {}
+  2: {}
+_node: &id005
+  0:
+    elevation: 420.3m
+    lat_deg: 40.95869
+    long_deg: -76.70817
+  1:
+    elevation: 664.8m
+    lat_deg: 40.91833
+    long_deg: -77.33222
+  2:
+    elevation: 461.5m
+    lat_deg: 40.80633
+    long_deg: -76.52972
+_pred:
+  0: {}
+  1:
+    0: *id001
+  2:
+    0: *id002
+_succ: *id003
+adjlist_inner_dict_factory: &id004 !!python/name:builtins.dict ''
+adjlist_outer_dict_factory: *id004
+edge_attr_dict_factory: *id004
+graph: {}
+graph_attr_dict_factory: *id004
+node_attr_dict_factory: *id004
+node_dict_factory: *id004
+nodes: !!python/object:networkx.classes.reportviews.NodeView
+  _nodes: *id005

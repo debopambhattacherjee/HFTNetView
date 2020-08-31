@@ -1,0 +1,38 @@
+
+        function createNode(latitude, longitude, color, size) {
+                var marker = new google.maps.Marker({
+                        position: {lat: latitude, lng: longitude},
+                        map: map,
+                        icon:
+                         {path: google.maps.SymbolPath.CIRCLE,
+                         fillColor: color,
+                         fillOpacity: 1.0,
+                         strokeColor: 'black',
+                         strokeWeight: 1,
+                         scale: size
+                         },
+                         draggable: false});
+                         return marker;
+        }
+
+        function createEdge(slat,slong,dlat,dlong, color, weight) {
+                var flightPlanCoordinates = [
+                        {lat: slat, lng: slong},
+                        {lat: dlat, lng: dlong}];
+                var flightPath = new google.maps.Polyline({
+                path: flightPlanCoordinates,
+                geodesic: true,
+                strokeColor: color,
+                strokeOpacity: 1.0,
+                strokeWeight: weight,
+                });
+                flightPath.setMap(map);
+        }
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=<YOUR_KEY_HERE>&callback=initMap">
+    </script>
+  </body>
+</html>
+

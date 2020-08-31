@@ -1,0 +1,785 @@
+!!python/object:networkx.classes.digraph.DiGraph
+_adj: &id077
+  0:
+    1: &id002
+      frequency_list:
+      - '''006034.15000000'''
+      length: 39.458684298909404
+    2: &id003
+      frequency_list:
+      - '''010995.00000000'''
+      length: 23.38475364988617
+  1: {}
+  2:
+    0: &id001
+      frequency_list:
+      - '''011485.00000000'''
+      length: 23.38475364988617
+    3: &id004
+      frequency_list:
+      - '''011365.00000000'''
+      length: 27.015843353244254
+  3: {}
+  4:
+    5: &id005
+      frequency_list:
+      - '''006004.50000000'''
+      length: 33.189994453002036
+    6: &id006
+      frequency_list:
+      - '''006152.75000000'''
+      length: 35.9943337623626
+  5: {}
+  6: {}
+  7:
+    8: &id009
+      frequency_list:
+      - '''006152.75000000'''
+      length: 16.62662448551288
+    9: &id010
+      frequency_list:
+      - '''006555.00000000'''
+      length: 9.043842602765396
+  8:
+    7: &id007
+      frequency_list:
+      - '''006404.79000000'''
+      length: 16.62662448551288
+    23: &id024
+      frequency_list:
+      - '''006315.84000000'''
+      - '''006256.54000000'''
+      length: 49.2180162972512
+  9:
+    7: &id008
+      frequency_list:
+      - '''006725.00000000'''
+      length: 9.043842602765396
+    13: &id013
+      frequency_list:
+      - '''023085.00000000'''
+      length: 0.40313359221404405
+  10:
+    11: &id011
+      frequency_list:
+      - '''011035.00000000'''
+      length: 27.937481948973456
+    12: &id012
+      frequency_list:
+      - '''006755.00000000'''
+      length: 49.436423729803195
+  11: {}
+  12: {}
+  13: {}
+  14:
+    15: &id014
+      frequency_list:
+      - '''011285.00000000'''
+      length: 31.8962854907778
+    16: &id015
+      frequency_list:
+      - '''006123.10000000'''
+      length: 40.5083896745544
+  15: {}
+  16: {}
+  17:
+    18: &id017
+      frequency_list:
+      - '''005974.85000000'''
+      length: 33.75866114460777
+    25: &id026
+      frequency_list:
+      - '''011325.00000000'''
+      length: 13.795892363537098
+  18:
+    17: &id016
+      frequency_list:
+      - '''006226.89000000'''
+      length: 33.75866114460777
+    19: &id019
+      frequency_list:
+      - '''011115.00000000'''
+      length: 23.76097891681979
+  19:
+    18: &id018
+      frequency_list:
+      - '''011605.00000000'''
+      length: 23.76097891681979
+    20: &id021
+      frequency_list:
+      - '''017845.00000000'''
+      length: 6.047808688701698
+  20:
+    19: &id020
+      frequency_list:
+      - '''019405.00000000'''
+      length: 6.047808688701698
+  21:
+    22: &id023
+      frequency_list:
+      - '''010915.00000000'''
+      length: 23.60191182801394
+    27: &id028
+      frequency_list:
+      - '''011685.00000000'''
+      length: 37.956315923171445
+  22:
+    21: &id022
+      frequency_list:
+      - '''011405.00000000'''
+      length: 23.60191182801394
+    24: &id025
+      frequency_list:
+      - '''011185.00000000'''
+      length: 15.498880553064076
+  23: {}
+  24: {}
+  25: {}
+  26:
+    27: &id029
+      frequency_list:
+      - '''011285.00000000'''
+      length: 34.847486350627534
+    39: &id044
+      frequency_list:
+      - '''006226.89000000'''
+      length: 34.135637733008664
+  27: {}
+  28:
+    29: &id032
+      frequency_list:
+      - '''011115.00000000'''
+      length: 26.214919506667783
+    45: &id050
+      frequency_list:
+      - '''006226.89000000'''
+      length: 27.88562565588998
+  29:
+    28: &id030
+      frequency_list:
+      - '''011605.00000000'''
+      length: 26.214919506667783
+    48: &id054
+      frequency_list:
+      - '''005974.85000000'''
+      length: 38.58017053662138
+  30:
+    31: &id034
+      frequency_list:
+      - '''010915.00000000'''
+      length: 28.891646979994864
+    51: &id058
+      frequency_list:
+      - '''010755.00000000'''
+      length: 32.65410932350421
+  31: {}
+  32:
+    33: &id036
+      frequency_list:
+      - '''011485.00000000'''
+      length: 42.861459026298014
+  33:
+    32: &id035
+      frequency_list:
+      - '''010995.00000000'''
+      length: 42.861459026298014
+    34: &id037
+      frequency_list:
+      - '''011075.00000000'''
+      length: 33.50449022500036
+  34: {}
+  35:
+    34: &id038
+      frequency_list:
+      - '''010875.00000000'''
+      length: 28.972867583013482
+    36: &id039
+      frequency_list:
+      - '''010915.00000000'''
+      length: 29.057465427352064
+  36:
+    54: &id062
+      frequency_list:
+      - '''011525.00000000'''
+      length: 8.032550736268291
+  37:
+    38: &id042
+      frequency_list:
+      - '''006375.14000000'''
+      length: 18.068291855725693
+    40: &id045
+      frequency_list:
+      - '''006725.00000000'''
+      length: 36.41446748193703
+  38: {}
+  39:
+    26: &id027
+      frequency_list:
+      - '''005974.85000000'''
+      length: 34.135637733008664
+    38: &id043
+      frequency_list:
+      - '''011325.00000000'''
+      length: 17.31764732255752
+  40:
+    37: &id041
+      frequency_list:
+      - '''006555.00000000'''
+      length: 36.41446748193703
+    41: &id046
+      frequency_list:
+      - '''006004.50000000'''
+      length: 6.499419802924343
+  41: {}
+  42:
+    43: &id048
+      frequency_list:
+      - '''011405.00000000'''
+      length: 18.87670754660876
+    44: &id049
+      frequency_list:
+      - '''005945.20000000'''
+      length: 16.65557605691595
+  43: {}
+  44: {}
+  45:
+    28: &id031
+      frequency_list:
+      - '''005974.85000000'''
+      length: 27.88562565588998
+  46:
+    41: &id047
+      frequency_list:
+      - '''006063.80000000'''
+      length: 36.13203184354467
+    47: &id052
+      frequency_list:
+      - '''011485.00000000'''
+      length: 28.614112543317837
+  47:
+    46: &id051
+      frequency_list:
+      - '''010995.00000000'''
+      length: 28.614112543317837
+    48: &id055
+      frequency_list:
+      - '''011605.00000000'''
+      length: 30.306533681613438
+  48:
+    29: &id033
+      frequency_list:
+      - '''006226.89000000'''
+      length: 38.58017053662138
+    47: &id053
+      frequency_list:
+      - '''011115.00000000'''
+      length: 30.306533681613438
+  49:
+    50: &id057
+      frequency_list:
+      - '''017785.00000000'''
+      length: 6.529769208768723
+  50:
+    49: &id056
+      frequency_list:
+      - '''019345.00000000'''
+      length: 6.529769208768723
+    51: &id059
+      frequency_list:
+      - '''010795.00000000'''
+      length: 24.38544901053612
+  51: {}
+  52:
+    53: &id060
+      frequency_list:
+      - '''010755.00000000'''
+      length: 25.314568953345294
+  53:
+    54: &id063
+      frequency_list:
+      - '''010955.00000000'''
+      length: 22.268343311997633
+    55: &id064
+      frequency_list:
+      - '''011035.00000000'''
+      length: 43.343293469027294
+  54:
+    36: &id040
+      frequency_list:
+      - '''011035.00000000'''
+      length: 8.032550736268291
+    53: &id061
+      frequency_list:
+      - '''011445.00000000'''
+      length: 22.268343311997633
+  55: {}
+  56:
+    57: &id065
+      frequency_list:
+      - '''019375.00000000'''
+      length: 5.968570209352362
+  57: {}
+  58:
+    59: &id068
+      frequency_list:
+      - '''019555.00000000'''
+      length: 8.765573528873855
+    60: &id069
+      frequency_list:
+      - '''010755.00000000'''
+      length: 15.546256426128291
+  59:
+    58: &id066
+      frequency_list:
+      - '''017995.00000000'''
+      length: 8.765573528873855
+    63: &id075
+      frequency_list:
+      - '''017785.00000000'''
+      length: 5.832106424109722
+  60:
+    58: &id067
+      frequency_list:
+      - '''011245.00000000'''
+      length: 15.546256426128291
+    61: &id071
+      frequency_list:
+      - '''011215.00000000'''
+      length: 18.923508465128073
+  61:
+    60: &id070
+      frequency_list:
+      - '''010715.00000000'''
+      length: 18.923508465128073
+    62: &id073
+      frequency_list:
+      - '''011405.00000000'''
+      length: 7.614673335536435
+  62:
+    61: &id072
+      frequency_list:
+      - '''010915.00000000'''
+      length: 7.614673335536435
+    64: &id076
+      frequency_list:
+      - '''021485.00000000'''
+      length: 0.4006007024320869
+  63: {}
+  64:
+    62: &id074
+      frequency_list:
+      - '''022685.00000000'''
+      length: 0.4006007024320869
+_node: &id079
+  0:
+    elevation: 833.9m
+    lat_deg: 39.81092
+    long_deg: -79.69183
+  1:
+    elevation: 910.4m
+    lat_deg: 39.68156
+    long_deg: -79.26206
+  2:
+    elevation: 387.4m
+    lat_deg: 39.89308
+    long_deg: -79.944
+  3:
+    elevation: 459.9m
+    lat_deg: 39.98831
+    long_deg: -80.23553
+  4:
+    elevation: 290.2m
+    lat_deg: 40.46017
+    long_deg: -83.04686
+  5:
+    elevation: 296.6m
+    lat_deg: 40.60297
+    long_deg: -83.39172
+  6:
+    elevation: 396.5m
+    lat_deg: 40.33756
+    long_deg: -82.65347
+  7:
+    elevation: 73.2m
+    lat_deg: 38.96414
+    long_deg: -77.10478
+  8:
+    elevation: 109.1m
+    lat_deg: 38.99908
+    long_deg: -77.29181
+  9:
+    elevation: 17.1m
+    lat_deg: 38.905
+    long_deg: -77.033
+  10:
+    elevation: 763.0m
+    lat_deg: 39.45167
+    long_deg: -78.34642
+  11:
+    elevation: 246.6m
+    lat_deg: 39.27528
+    long_deg: -78.115
+  12:
+    elevation: 862.0m
+    lat_deg: 39.58314
+    long_deg: -78.89697
+  13:
+    elevation: 24.1m
+    lat_deg: 38.90297
+    long_deg: -77.02914
+  14:
+    elevation: 242.9m
+    lat_deg: 41.07183
+    long_deg: -85.12928
+  15:
+    elevation: 257.5m
+    lat_deg: 41.15186
+    long_deg: -85.49489
+  16:
+    elevation: 238.7m
+    lat_deg: 40.91658
+    long_deg: -84.69264
+  17:
+    elevation: 182.0m
+    lat_deg: 41.58842
+    long_deg: -87.54208
+  18:
+    elevation: 218.6m
+    lat_deg: 41.65375
+    long_deg: -87.93869
+  19:
+    elevation: 212.4m
+    lat_deg: 41.76069
+    long_deg: -88.1865
+  20:
+    elevation: 224.1m
+    lat_deg: 41.80056
+    long_deg: -88.23611
+  21:
+    elevation: 188.3m
+    lat_deg: 41.40467
+    long_deg: -82.7275
+  22:
+    elevation: 235.3m
+    lat_deg: 41.34556
+    long_deg: -82.45583
+  23:
+    elevation: 452.6m
+    lat_deg: 39.23917
+    long_deg: -77.77111
+  24:
+    elevation: 250.5m
+    lat_deg: 41.34236
+    long_deg: -82.27022
+  25:
+    elevation: 181.3m
+    lat_deg: 41.56936
+    long_deg: -87.37819
+  26:
+    elevation: 196.9m
+    lat_deg: 41.50025
+    long_deg: -83.58253
+  27:
+    elevation: 186.8m
+    lat_deg: 41.40881
+    long_deg: -83.18258
+  28:
+    elevation: 266.7m
+    lat_deg: 41.61758
+    long_deg: -86.83142
+  29:
+    elevation: 246.8m
+    lat_deg: 41.67456
+    long_deg: -86.52528
+  30:
+    elevation: 694.9m
+    lat_deg: 41.09983
+    long_deg: -78.53369
+  31:
+    elevation: 529.1m
+    lat_deg: 41.15186
+    long_deg: -78.87164
+  32:
+    elevation: 304.8m
+    lat_deg: 40.82239
+    long_deg: -74.55578
+  33:
+    elevation: 383.4m
+    lat_deg: 40.77028
+    long_deg: -75.06028
+  34:
+    elevation: 219.8m
+    lat_deg: 40.74386
+    long_deg: -75.45653
+  35:
+    elevation: 473.4m
+    lat_deg: 40.71519
+    long_deg: -75.79828
+  36:
+    elevation: 524.2m
+    lat_deg: 40.80497
+    long_deg: -76.12228
+  37:
+    elevation: 237.7m
+    lat_deg: 41.60222
+    long_deg: -84.40611
+  38:
+    elevation: 234.4m
+    lat_deg: 41.56944
+    long_deg: -84.19333
+  39:
+    elevation: 211.8m
+    lat_deg: 41.53861
+    long_deg: -83.98933
+  40:
+    elevation: 291.0m
+    lat_deg: 41.64533
+    long_deg: -84.84039
+  41:
+    elevation: 310.9m
+    lat_deg: 41.64694
+    long_deg: -84.91858
+  42:
+    elevation: 469.3m
+    lat_deg: 41.182
+    long_deg: -79.39086
+  43:
+    elevation: 534.0m
+    lat_deg: 41.18394
+    long_deg: -79.16531
+  44:
+    elevation: 469.6m
+    lat_deg: 41.19853
+    long_deg: -79.58869
+  45:
+    elevation: 195.0m
+    lat_deg: 41.58436
+    long_deg: -87.16383
+  46:
+    elevation: 314.2m
+    lat_deg: 41.65019
+    long_deg: -85.35342
+  47:
+    elevation: 284.1m
+    lat_deg: 41.65075
+    long_deg: -85.69781
+  48:
+    elevation: 224.3m
+    lat_deg: 41.67831
+    long_deg: -86.06078
+  49:
+    elevation: 450.8m
+    lat_deg: 40.98378
+    long_deg: -77.82136
+  50:
+    elevation: 576.1m
+    lat_deg: 41.01511
+    long_deg: -77.88717
+  51:
+    elevation: 515.1m
+    lat_deg: 40.98544
+    long_deg: -78.17508
+  52:
+    elevation: 262.1m
+    lat_deg: 40.88111
+    long_deg: -76.76
+  53:
+    elevation: 487.7m
+    lat_deg: 40.81961
+    long_deg: -76.47022
+  54:
+    elevation: 475.1m
+    lat_deg: 40.77881
+    long_deg: -76.21122
+  55:
+    elevation: 326.1m
+    lat_deg: 40.89597
+    long_deg: -76.97561
+  56:
+    elevation: 9.9m
+    lat_deg: 40.73689
+    long_deg: -74.17333
+  57:
+    elevation: 9.1m
+    lat_deg: 40.68856
+    long_deg: -74.20414
+  58:
+    elevation: 183.0m
+    lat_deg: 41.60278
+    long_deg: -87.3375
+  59:
+    elevation: 182.3m
+    lat_deg: 41.58872
+    long_deg: -87.23378
+  60:
+    elevation: 177.7m
+    lat_deg: 41.64981
+    long_deg: -87.51364
+  61:
+    elevation: 182.0m
+    lat_deg: 41.78872
+    long_deg: -87.64536
+  62:
+    elevation: 181.0m
+    lat_deg: 41.85508
+    long_deg: -87.62267
+  63:
+    elevation: 195.0m
+    lat_deg: 41.58444
+    long_deg: -87.16389
+  64:
+    elevation: 182.0m
+    lat_deg: 41.85336
+    long_deg: -87.61842
+_pred:
+  0:
+    2: *id001
+  1:
+    0: *id002
+  2:
+    0: *id003
+  3:
+    2: *id004
+  4: {}
+  5:
+    4: *id005
+  6:
+    4: *id006
+  7:
+    8: *id007
+    9: *id008
+  8:
+    7: *id009
+  9:
+    7: *id010
+  10: {}
+  11:
+    10: *id011
+  12:
+    10: *id012
+  13:
+    9: *id013
+  14: {}
+  15:
+    14: *id014
+  16:
+    14: *id015
+  17:
+    18: *id016
+  18:
+    17: *id017
+    19: *id018
+  19:
+    18: *id019
+    20: *id020
+  20:
+    19: *id021
+  21:
+    22: *id022
+  22:
+    21: *id023
+  23:
+    8: *id024
+  24:
+    22: *id025
+  25:
+    17: *id026
+  26:
+    39: *id027
+  27:
+    21: *id028
+    26: *id029
+  28:
+    29: *id030
+    45: *id031
+  29:
+    28: *id032
+    48: *id033
+  30: {}
+  31:
+    30: *id034
+  32:
+    33: *id035
+  33:
+    32: *id036
+  34:
+    33: *id037
+    35: *id038
+  35: {}
+  36:
+    35: *id039
+    54: *id040
+  37:
+    40: *id041
+  38:
+    37: *id042
+    39: *id043
+  39:
+    26: *id044
+  40:
+    37: *id045
+  41:
+    40: *id046
+    46: *id047
+  42: {}
+  43:
+    42: *id048
+  44:
+    42: *id049
+  45:
+    28: *id050
+  46:
+    47: *id051
+  47:
+    46: *id052
+    48: *id053
+  48:
+    29: *id054
+    47: *id055
+  49:
+    50: *id056
+  50:
+    49: *id057
+  51:
+    30: *id058
+    50: *id059
+  52: {}
+  53:
+    52: *id060
+    54: *id061
+  54:
+    36: *id062
+    53: *id063
+  55:
+    53: *id064
+  56: {}
+  57:
+    56: *id065
+  58:
+    59: *id066
+    60: *id067
+  59:
+    58: *id068
+  60:
+    58: *id069
+    61: *id070
+  61:
+    60: *id071
+    62: *id072
+  62:
+    61: *id073
+    64: *id074
+  63:
+    59: *id075
+  64:
+    62: *id076
+_succ: *id077
+adjlist_inner_dict_factory: &id078 !!python/name:builtins.dict ''
+adjlist_outer_dict_factory: *id078
+edge_attr_dict_factory: *id078
+graph: {}
+graph_attr_dict_factory: *id078
+node_attr_dict_factory: *id078
+node_dict_factory: *id078
+nodes: !!python/object:networkx.classes.reportviews.NodeView
+  _nodes: *id079

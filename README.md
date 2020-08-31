@@ -1,1 +1,5 @@
-# HFTNetView
+HFTNetView
+==========
+
+|GitHub license|
+

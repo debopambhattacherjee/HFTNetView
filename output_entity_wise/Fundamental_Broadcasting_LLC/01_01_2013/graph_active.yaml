@@ -1,0 +1,134 @@
+!!python/object:networkx.classes.digraph.DiGraph
+_adj: &id013
+  0:
+    1: &id002
+      frequency_list:
+      - '''006004.50000000'''
+      length: 18.383660324630934
+  1:
+    0: &id001
+      frequency_list:
+      - '''006256.54000000'''
+      length: 18.383660324630934
+    4: &id006
+      frequency_list:
+      - '''006755.00000000'''
+      length: 7.400420859669583
+  2:
+    3: &id005
+      frequency_list:
+      - '''006375.14000000'''
+      length: 18.233497927662466
+  3:
+    2: &id003
+      frequency_list:
+      - '''006123.10000000'''
+      length: 18.233497927662466
+    5: &id007
+      frequency_list:
+      - '''005945.20000000'''
+      length: 20.297568367051277
+  4: {}
+  5:
+    6: &id009
+      frequency_list:
+      - '''006286.19000000'''
+      length: 24.283634339173283
+  6:
+    5: &id008
+      frequency_list:
+      - '''006034.15000000'''
+      length: 24.283634339173283
+    9: &id012
+      frequency_list:
+      - '''006004.50000000'''
+      length: 12.802631860871223
+  7:
+    2: &id004
+      frequency_list:
+      - '''006034.15000000'''
+      length: 9.954340663065658
+    8: &id011
+      frequency_list:
+      - '''006197.24000000'''
+      length: 3.2178125790057317
+  8: {}
+  9:
+    6: &id010
+      frequency_list:
+      - '''006256.54000000'''
+      length: 12.802631860871223
+_node: &id015
+  0:
+    elevation: 473.0m
+    lat_deg: 41.10406
+    long_deg: -79.21461
+  1:
+    elevation: 489.2m
+    lat_deg: 41.14694
+    long_deg: -79.00264
+  2:
+    elevation: 224.0m
+    lat_deg: 40.80208
+    long_deg: -75.34339
+  3:
+    elevation: 232.3m
+    lat_deg: 40.84325
+    long_deg: -75.13364
+  4:
+    elevation: 565.1m
+    lat_deg: 41.14925
+    long_deg: -78.91431
+  5:
+    elevation: 197.9m
+    lat_deg: 40.965
+    long_deg: -74.95369
+  6:
+    elevation: 368.3m
+    lat_deg: 40.88056
+    long_deg: -74.68714
+  7:
+    elevation: 213.2m
+    lat_deg: 40.73425
+    long_deg: -75.42053
+  8:
+    elevation: 219.2m
+    lat_deg: 40.74361
+    long_deg: -75.45667
+  9:
+    elevation: 304.8m
+    lat_deg: 40.82239
+    long_deg: -74.55578
+_pred:
+  0:
+    1: *id001
+  1:
+    0: *id002
+  2:
+    3: *id003
+    7: *id004
+  3:
+    2: *id005
+  4:
+    1: *id006
+  5:
+    3: *id007
+    6: *id008
+  6:
+    5: *id009
+    9: *id010
+  7: {}
+  8:
+    7: *id011
+  9:
+    6: *id012
+_succ: *id013
+adjlist_inner_dict_factory: &id014 !!python/name:builtins.dict ''
+adjlist_outer_dict_factory: *id014
+edge_attr_dict_factory: *id014
+graph: {}
+graph_attr_dict_factory: *id014
+node_attr_dict_factory: *id014
+node_dict_factory: *id014
+nodes: !!python/object:networkx.classes.reportviews.NodeView
+  _nodes: *id015

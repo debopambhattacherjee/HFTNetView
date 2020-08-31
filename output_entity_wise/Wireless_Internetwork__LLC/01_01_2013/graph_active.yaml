@@ -1,0 +1,14 @@
+!!python/object:networkx.classes.digraph.DiGraph
+_adj: &id001 {}
+_node: &id003 {}
+_pred: {}
+_succ: *id001
+adjlist_inner_dict_factory: &id002 !!python/name:builtins.dict ''
+adjlist_outer_dict_factory: *id002
+edge_attr_dict_factory: *id002
+graph: {}
+graph_attr_dict_factory: *id002
+node_attr_dict_factory: *id002
+node_dict_factory: *id002
+nodes: !!python/object:networkx.classes.reportviews.NodeView
+  _nodes: *id003

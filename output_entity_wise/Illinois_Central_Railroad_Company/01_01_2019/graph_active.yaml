@@ -1,0 +1,251 @@
+!!python/object:networkx.classes.digraph.DiGraph
+_adj: &id025
+  0:
+    1: &id003
+      frequency_list:
+      - '''006775.00000000'''
+      length: 38.546484770844934
+    2: &id005
+      frequency_list:
+      - '''006825.00000000'''
+      - '''006093.45000000'''
+      length: 40.47425565472969
+    3: &id007
+      frequency_list:
+      - '''006034.15000000'''
+      length: 38.47605656201984
+  1: {}
+  2:
+    0: &id001
+      frequency_list:
+      - '''006345.49000000'''
+      length: 40.47425565472969
+    14: &id019
+      frequency_list:
+      - '''006595.00000000'''
+      length: 40.46288422166365
+    16: &id022
+      frequency_list:
+      - '''006685.00000000'''
+      length: 44.422729735095814
+    17: &id023
+      frequency_list:
+      - '''006315.84000000'''
+      length: 44.35738196272094
+  3:
+    0: &id002
+      frequency_list:
+      - '''006286.19000000'''
+      length: 38.47605656201984
+    10: &id015
+      frequency_list:
+      - '''006256.54000000'''
+      length: 45.95258253270571
+    13: &id018
+      frequency_list:
+      - '''006585.00000000'''
+      length: 45.99728592424003
+    14: &id020
+      frequency_list:
+      - '''006615.00000000'''
+      length: 38.46936145920269
+    15: &id021
+      frequency_list:
+      - '''006197.24000000'''
+      length: 20.427603048836986
+  4:
+    5: &id010
+      frequency_list:
+      - '''006605.00000000'''
+      length: 25.908169316641953
+    6: &id011
+      frequency_list:
+      - '''006645.00000000'''
+      length: 36.97457160906463
+    7: &id012
+      frequency_list:
+      - '''006315.84000000'''
+      length: 36.910792246317875
+  5: {}
+  6: {}
+  7:
+    4: &id009
+      frequency_list:
+      - '''006805.00000000'''
+      - '''006063.80000000'''
+      length: 36.910792246317875
+    8: &id013
+      frequency_list:
+      - '''006765.00000000'''
+      length: 40.7426305355278
+    9: &id014
+      frequency_list:
+      - '''005945.20000000'''
+      length: 40.68771725776725
+  8: {}
+  9: {}
+  10:
+    1: &id004
+      frequency_list:
+      - '''006745.00000000'''
+      length: 45.88253493224311
+    3: &id008
+      frequency_list:
+      - '''006004.50000000'''
+      length: 45.95258253270571
+    11: &id016
+      frequency_list:
+      - '''006795.00000000'''
+      length: 44.05076247261425
+    12: &id017
+      frequency_list:
+      - '''005945.20000000'''
+      length: 44.01268447644804
+  11: {}
+  12: {}
+  13: {}
+  14: {}
+  15: {}
+  16: {}
+  17:
+    2: &id006
+      frequency_list:
+      - '''006845.00000000'''
+      - '''006063.80000000'''
+      length: 44.35738196272094
+    18: &id024
+      frequency_list:
+      - '''006835.00000000'''
+      length: 26.80178276419668
+  18: {}
+_node: &id027
+  0:
+    elevation: 150.0m
+    lat_deg: 38.50158
+    long_deg: -89.14347
+  1:
+    elevation: 190.5m
+    lat_deg: 38.76556
+    long_deg: -88.85583
+  2:
+    elevation: 149.0m
+    lat_deg: 38.14117
+    long_deg: -89.20842
+  3:
+    elevation: 192.0m
+    lat_deg: 38.76508
+    long_deg: -88.85636
+  4:
+    elevation: 196.6m
+    lat_deg: 40.78725
+    long_deg: -87.98836
+  5:
+    elevation: 219.5m
+    lat_deg: 41.02003
+    long_deg: -88.00169
+  6:
+    elevation: 239.0m
+    lat_deg: 40.45917
+    long_deg: -88.05972
+  7:
+    elevation: 239.0m
+    lat_deg: 40.45972
+    long_deg: -88.05947
+  8:
+    elevation: 224.0m
+    lat_deg: 40.12
+    long_deg: -88.23944
+  9:
+    elevation: 224.0m
+    lat_deg: 40.12044
+    long_deg: -88.23914
+  10:
+    elevation: 178.0m
+    lat_deg: 39.10417
+    long_deg: -88.55267
+  11:
+    elevation: 219.5m
+    lat_deg: 39.47972
+    long_deg: -88.38972
+  12:
+    elevation: 219.8m
+    lat_deg: 39.47933
+    long_deg: -88.38961
+  13:
+    elevation: 176.8m
+    lat_deg: 39.10472
+    long_deg: -88.55278
+  14:
+    elevation: 150.0m
+    lat_deg: 38.50144
+    long_deg: -89.14314
+  15:
+    elevation: 157.9m
+    lat_deg: 38.62914
+    long_deg: -88.69803
+  16:
+    elevation: 116.0m
+    lat_deg: 37.74172
+    long_deg: -89.21675
+  17:
+    elevation: 118.0m
+    lat_deg: 37.74231
+    long_deg: -89.21692
+  18:
+    elevation: 249.9m
+    lat_deg: 37.56169
+    long_deg: -89.01533
+_pred:
+  0:
+    2: *id001
+    3: *id002
+  1:
+    0: *id003
+    10: *id004
+  2:
+    0: *id005
+    17: *id006
+  3:
+    0: *id007
+    10: *id008
+  4:
+    7: *id009
+  5:
+    4: *id010
+  6:
+    4: *id011
+  7:
+    4: *id012
+  8:
+    7: *id013
+  9:
+    7: *id014
+  10:
+    3: *id015
+  11:
+    10: *id016
+  12:
+    10: *id017
+  13:
+    3: *id018
+  14:
+    2: *id019
+    3: *id020
+  15:
+    3: *id021
+  16:
+    2: *id022
+  17:
+    2: *id023
+  18:
+    17: *id024
+_succ: *id025
+adjlist_inner_dict_factory: &id026 !!python/name:builtins.dict ''
+adjlist_outer_dict_factory: *id026
+edge_attr_dict_factory: *id026
+graph: {}
+graph_attr_dict_factory: *id026
+node_attr_dict_factory: *id026
+node_dict_factory: *id026
+nodes: !!python/object:networkx.classes.reportviews.NodeView
+  _nodes: *id027
