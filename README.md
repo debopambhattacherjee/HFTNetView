@@ -1,5 +1,6 @@
 HFTNetView
 ==========
+[![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/Carthage/Carthage/master/LICENSE.md)
 
 A python-based scraping and visualization tool for uncovering **High Frequency Trading (HFT)** networks, consisting of point-to-point line-of-sight microwave (MW) links, operating in the **Chicago - New Jersey** trading corridor.
 
@@ -56,3 +57,12 @@ Visualization of **Jefferson Microwave**'s HFT network as of 01-Apr-2020
 
 ## Scripts
 
+**scripts** directory contains all the scripts, as follows:
+
+* **generate_license_history.py**: Gets license details for each entity in ENTITY_NAMES by scraping public FCC filing data.
+* **get_e2e_latency.py**: Finds end-to-end latencies between data centers in the Chicago - NJ corridor.
+* **get_e2e_latency_temporal.py**: Finds end-to-end latencies between data centers in the Chicago - NJ corridor
+over all networks for list of dates.
+* **reconstruct_by_date.py**: Reconstructs networks on a specific date from licenses which were active on that date.
+* **util.py**: Contains few utility functions.
+* **static_html**: This directory holds the static html files needed to generate the HTML visualizations. As mentioned above, bottom.html should be updated with the Google Maps API key.
