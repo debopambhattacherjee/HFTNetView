@@ -1,6 +1,6 @@
 HFTNetView
 ==========
-[![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/Carthage/Carthage/master/LICENSE.md)
+[![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/debopambhattacherjee/HFTNetView/blob/master/LICENSE.md)
 
 A python-based scraping and visualization tool for uncovering **High Frequency Trading (HFT)** networks, consisting of point-to-point line-of-sight microwave (MW) links, operating in the **Chicago - New Jersey** trading corridor.
 
