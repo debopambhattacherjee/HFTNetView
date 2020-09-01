@@ -50,10 +50,10 @@ Edge (MW link) properties: Length (km), Operating frequencies
 **visualizations** directory contains network visualizations for 2 dates: 01-Jan-2016 and 01-Apr-2020.
 
 Visualization of **New Line Networks**' HFT network as of 01-Apr-2020
-![NLN network, 01-Apr-2020](https://raw.githubusercontent.com/debopambhattacherjee/HFTNetView/master/visualizations/New_Line_Networks/04_01_2020/viz_active_links.png?token=AGGCRU6B7DFBHRXN2CSM2WK7JY2IM)
+![NLN network, 01-Apr-2020](https://raw.githubusercontent.com/debopambhattacherjee/HFTNetView/master/visualizations/New_Line_Networks/04_01_2020/viz_active_links.png)
 
 Visualization of **Jefferson Microwave**'s HFT network as of 01-Apr-2020
-![JM network, 01-Apr-2020](https://raw.githubusercontent.com/debopambhattacherjee/HFTNetView/master/visualizations/Jefferson_Microwave__LLC/04_01_2020/viz_active_links.png?token=AGGCRU7PVKPIOO2Z6EL3FMC7JY2RU)
+![JM network, 01-Apr-2020](https://raw.githubusercontent.com/debopambhattacherjee/HFTNetView/master/visualizations/Jefferson_Microwave__LLC/04_01_2020/viz_active_links.png)
 
 ## Scripts
 
